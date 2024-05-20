@@ -14,5 +14,4 @@ public enum HelperClass {
 
         return DriverManager.getConnection(Constants.JDBC_MYSQL_URL, props);
     }
-
-    }
+}
